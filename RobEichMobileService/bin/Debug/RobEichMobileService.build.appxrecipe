@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROBEICHNB</Machine>
+    <WindowsUser>robeich</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\RobEichMobileService.exe">
+      <PackagePath>RobEichMobileService.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\RobEichMobileService.pdb">
+      <PackagePath>RobEichMobileService.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\WindowsAzure.MobileServices.1.0.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\WindowsAzure.MobileServices.1.0.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Newtonsoft.Json.5.0.5\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Microsoft.Net.Http.2.2.13\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Microsoft.Net.Http.2.2.13\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\MobileServices.NodeJS\MobileService.js">
+      <PackagePath>MobileServices.NodeJS\MobileService.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\Common\QuickStartTask.xaml">
+      <PackagePath>Common\QuickStartTask.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="4195RobertEichenseer.RobEichMobileService" Publisher="CN=4EF806E4-D82E-43C8-B0E3-D7E14EA1CAE9" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>RobEichMobileService</DisplayName>
+    <PublisherDisplayName>Robert Eichenseer</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="RobEichMobileService.App">
+      <VisualElements DisplayName="RobEichMobileService" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="RobEichMobileService" ForegroundText="light" BackgroundColor="#464646" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
