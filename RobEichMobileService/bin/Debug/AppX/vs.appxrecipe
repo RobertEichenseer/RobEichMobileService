@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>ROBEICHNB</Machine>
+    <Machine>DE-ROBEICH01</Machine>
     <WindowsUser>robeich</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
@@ -13,92 +13,92 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-10-10T12:29:40.203</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\RobEichMobileService.exe">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\bin\Debug\RobEichMobileService.exe">
       <PackagePath>RobEichMobileService.exe</PackagePath>
-      <Modified>2013-10-11T06:32:44.700</Modified>
+      <Modified>2013-10-23T09:33:59.755</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\RobEichMobileService.pdb">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\bin\Debug\RobEichMobileService.pdb">
       <PackagePath>RobEichMobileService.pdb</PackagePath>
-      <Modified>2013-10-11T06:32:44.676</Modified>
+      <Modified>2013-10-23T09:33:59.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.dll">
       <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
       <Modified>2013-10-09T10:09:14.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\packages\Microsoft.Bcl.Async.1.0.16\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
       <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
       <Modified>2013-10-09T10:09:14.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\WindowsAzure.MobileServices.1.0.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\packages\WindowsAzure.MobileServices.1.0.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
       <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
       <Modified>2013-10-09T10:09:14.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\WindowsAzure.MobileServices.1.0.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\packages\WindowsAzure.MobileServices.1.0.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
       <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
       <Modified>2013-10-09T10:09:14.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Newtonsoft.Json.5.0.5\lib\netcore45\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\packages\Newtonsoft.Json.5.0.5\lib\netcore45\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
       <Modified>2013-10-09T10:09:14.304</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Microsoft.Net.Http.2.2.13\lib\win8\System.Net.Http.Extensions.dll">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\packages\Microsoft.Net.Http.2.2.13\lib\win8\System.Net.Http.Extensions.dll">
       <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
       <Modified>2013-10-09T10:09:14.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\packages\Microsoft.Net.Http.2.2.13\lib\win8\System.Net.Http.Primitives.dll">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\packages\Microsoft.Net.Http.2.2.13\lib\win8\System.Net.Http.Primitives.dll">
       <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
       <Modified>2013-10-09T10:09:14.193</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-10-09T10:08:22.284</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-10-09T10:08:22.305</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-10-09T10:08:22.325</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-10-09T10:08:22.344</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\MobileServices.NodeJS\MobileService.js">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\MobileServices.NodeJS\MobileService.js">
       <PackagePath>MobileServices.NodeJS\MobileService.js</PackagePath>
       <Modified>2013-10-10T11:35:55.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\App.xaml">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
       <Modified>2013-10-09T10:08:21.956</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\Common\QuickStartTask.xaml">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\bin\Debug\Common\QuickStartTask.xaml">
       <PackagePath>Common\QuickStartTask.xaml</PackagePath>
       <Modified>2013-10-09T10:08:22.369</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
       <Modified>2013-10-09T10:08:22.436</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\MainPage.xaml">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
       <Modified>2013-10-09T10:08:22.054</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Del\RobEichMobileService\RobEichMobileService\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Sourcen\RobEichMobileService\RobEichMobileService\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-10-10T12:29:39.560</Modified>
+      <Modified>2013-10-21T13:56:21.900</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -87,7 +87,7 @@ namespace RobEichMobileService
             }
 
             #region 04_01 Cache Logon
-            //LogonCacher.SaveCredential(App.MobileService.CurrentUser.UserId, App.MobileService.CurrentUser.MobileServiceAuthenticationToken); 
+            LogonCacher.SaveCredential(App.MobileService.CurrentUser.UserId, App.MobileService.CurrentUser.MobileServiceAuthenticationToken); 
             #endregion 04_01 Cache Logon
 
         }
@@ -145,6 +145,10 @@ namespace RobEichMobileService
             {
                 ListItems.ItemsSource = items;
             }
+
+            #region 06_01 Existing Database Table
+            //var downloadItems = await (App.MobileService.GetTable("DownloadItem").ReadAsync(""));
+            #endregion 06_01 Existing Database Table
         }
 
         private async void UpdateCheckedTodoItem(TodoItem item)

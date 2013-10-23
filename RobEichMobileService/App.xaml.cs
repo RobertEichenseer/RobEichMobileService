@@ -33,11 +33,10 @@ namespace RobEichMobileService
         }
         #endregion 02_02 Push Notification
 
-        // This MobileServiceClient has been configured to communicate with your Mobile Service's url
-        // and application key. You're all set to start working with your Mobile Service!
+        //TODO: Add specific mobile service information
         public static MobileServiceClient MobileService = new MobileServiceClient(
-            "https://robeichmobileservice.azure-mobile.net/",
-            "MUswbslZwEKhRaKatLsvJEjlwVYlUE45"
+            "https://<<add-mobile-service-name-here>>.azure-mobile.net/",
+            "<<add-mobile-service-app-key-here>>"
             #region 05_01 Request Interception
             //,new RequestInterceptor()
             #endregion 05_01 Request Interception
